@@ -4,7 +4,7 @@
 This mod adds the new voicesets added in Icewind Dale II to the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 Does not include the voicesets reused from Icewind Dale 1.
 
-##Limitations
+## Limitations
 Icewind Dale II supports 2 "Critical Hit" responses. EE games only support a single response which led to one of these responses getting unused and cut.
 
 ## Version history
