@@ -8,6 +8,10 @@ Does not include the voicesets reused from Icewind Dale 1.
 Icewind Dale II supports 2 "Critical Hit" responses. EE games only support a single response which led to one of these responses getting unused and cut.
 
 ## Version history
+### 1.0.2
+
+Fixup because I forgot to properly bump the version number.
+
 ### 1.0.1
 
 Fix Female Monk referencing Female Barbarian voice.
