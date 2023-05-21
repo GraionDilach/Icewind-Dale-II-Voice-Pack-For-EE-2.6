@@ -8,6 +8,15 @@ Does not include the voicesets reused from Icewind Dale 1.
 Icewind Dale II supports 2 "Critical Hit" responses. EE games only support a single response which led to one of these responses getting unused and cut.
 
 ## Version history
+### 1.1.0
+
+Prevent installing on unmerged SoD.
+Move backup and inlined folder to weidu_external.
+
+### 1.0.4
+
+Add Project Infinity metadata.
+
 ### 1.0.3
 
 Fix the text on Female Bard damage responses.
