@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/zg_iwd2_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~1.1.0~
+VERSION ~1.2.0~
 
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/english/setup.tra~
@@ -63,8 +63,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20130) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20131) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20134) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20135) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20136) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20135) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20136) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20140) //  m
     cd_dying2             = RESOLVE_STR_REF(@20141) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20143) //  w
@@ -117,8 +117,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20230) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20231) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20234) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20235) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20236) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20235) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20236) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20240) //  m
     cd_dying2             = RESOLVE_STR_REF(@20241) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20243) //  w
@@ -171,8 +171,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20330) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20331) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20334) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20335) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20336) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20335) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20336) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20340) //  m
     cd_dying2             = RESOLVE_STR_REF(@20341) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20343) //  w
@@ -225,8 +225,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20430) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20431) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20434) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20435) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20436) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20435) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20436) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20440) //  m
     cd_dying2             = RESOLVE_STR_REF(@20441) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20443) //  w
@@ -279,8 +279,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20530) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20531) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20534) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20535) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20536) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20535) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20536) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20540) //  m
     cd_dying2             = RESOLVE_STR_REF(@20541) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20543) //  w
@@ -333,8 +333,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@20630) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@20631) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@20634) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@20635) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@20636) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@20635) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@20636) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@20640) //  m
     cd_dying2             = RESOLVE_STR_REF(@20641) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@20643) //  w
@@ -387,8 +387,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21130) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21131) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21134) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21135) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21136) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21135) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21136) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21140) //  m
     cd_dying2             = RESOLVE_STR_REF(@21141) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21143) //  w
@@ -441,8 +441,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21230) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21231) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21234) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21235) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21236) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21235) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21236) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21240) //  m
     cd_dying2             = RESOLVE_STR_REF(@21241) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21243) //  w
@@ -495,8 +495,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21330) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21331) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21334) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21335) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21336) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21335) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21336) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21340) //  m
     cd_dying2             = RESOLVE_STR_REF(@21341) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21343) //  w
@@ -549,8 +549,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21430) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21431) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21434) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21435) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21436) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21435) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21436) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21440) //  m
     cd_dying2             = RESOLVE_STR_REF(@21441) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21443) //  w
@@ -603,8 +603,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21530) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21531) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21534) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21535) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21536) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21535) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21536) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21540) //  m
     cd_dying2             = RESOLVE_STR_REF(@21541) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21543) //  w
@@ -657,8 +657,8 @@ LAF cd_add_soundset
     cd_common6            = RESOLVE_STR_REF(@21630) //  l_ (unofficial, letter)
     cd_common7            = RESOLVE_STR_REF(@21631) //  m_ (unofficial)
     cd_damage1            = RESOLVE_STR_REF(@21634) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@21635) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@21636) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@21635) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@21636) //  o_ (unofficial)
     cd_dying1             = RESOLVE_STR_REF(@21640) //  m
     cd_dying2             = RESOLVE_STR_REF(@21641) //  p_
     cd_gen_death1         = RESOLVE_STR_REF(@21643) //  w
